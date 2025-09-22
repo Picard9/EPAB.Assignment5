@@ -35,6 +35,7 @@ int main()
     // initialize random number generator
     srand((time(NULL)));
 
+
     string result;
     // Ask 3 random questions
     for (int i = 0; i < 3; i++) {
